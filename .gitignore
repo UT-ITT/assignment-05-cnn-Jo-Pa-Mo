@@ -1,0 +1,5 @@
+*.venv
+.venv
+*.env
+.env
+gesture_dataset_sample
